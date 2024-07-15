@@ -1,19 +1,44 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of famous cars in movies.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What car is in 'Back to the Future'?",
+      "answers": ["DeLorean", "Ferrari", "Mustang"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What car does James Bond drive?",
+      "answers": ["Aston", "BMW", "Jaguar"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What car is in 'Knight Rider'?",
+      "answers": ["TransAm", "Camaro", "Corvette"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What car is in 'The Dukes of Hazzard'?",
+      "answers": ["Charger", "Mustang", "Camaro"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What car is in 'Bullitt'?",
+      "answers": ["Mustang", "Charger", "Camaro"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What car is in 'Ghostbusters'?",
+      "answers": ["Ecto-1", "Batmobile", "Herbie"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What car is in 'The Fast and the Furious'?",
+      "answers": ["Supra", "Charger", "Skyline"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What car is in 'Herbie'?",
+      "answers": ["Beetle", "Mini", "Pacer"],
       "correctAnswerIndex": 0
     }
   ]
